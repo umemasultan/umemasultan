@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Umema Sultan</h1>
 
-<!--
-**umemasultan/umemasultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | React & Next.js | Python | Agentic AI & Robotics | Future Tech Builder 🚀
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+
+- 💻 Frontend Developer (HTML, CSS, JavaScript, React, Next.js)
+- 🐍 Python Programmer & AI Learner
+- 🤖 Exploring Agentic AI & Robotics
+- 🚀 Building real-world web & AI projects
+- 🎯 Goal: Become an AI Engineer
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,nodejs,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Umema's GitHub stats](https://github-readme-stats.vercel.app/api?username=umemasultan&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=umemasultan&theme=radical)
+
+---
+
+### 🚀 Featured Projects
+
+- 🔹 Fullstack Todo App (FastAPI + Next.js)
+- 🔹 AI Agent Projects
+- 🔹 Portfolio Website
+- 🔹 HTML/CSS Real-World Projects
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/umema-sultan  
+- 💻 GitHub: https://github.com/umemasultan  
+- 🎵 TikTok: https://www.tiktok.com/@codedremer  
+- 📢 WhatsApp Channel: https://whatsapp.com/channel/0029VajhSWv77qVa4QVQJX3u  
+- 📘 Facebook: https://www.facebook.com/codedremer.chai.aur.code  
+- 📸 Instagram: https://www.instagram.com/codedreamer123/
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=umemasultan&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+⭐ Building in Public | Learning AI | Growing Daily 💙
