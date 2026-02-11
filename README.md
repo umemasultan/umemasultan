@@ -48,16 +48,18 @@ Frontend Developer | React & Next.js | Python | Agentic AI & Robotics | Future T
 ---
 
 ### 🌐 Connect With Me
-
-- 💼 LinkedIn: [Umema Sultan](https://www.linkedin.com/in/umema-sultan)  
-- 💻 GitHub: [umemasultan](https://github.com/umemasultan)  
-- 🎵 TikTok: [codedremer](https://www.tiktok.com/@codedremer)  
-- 📢 WhatsApp Channel: [Click Here](https://whatsapp.com/channel/0029VajhSWv77qVa4QVQJX3u)  
-- 📘 Facebook: [codedremer.chai.aur.code](https://www.facebook.com/codedremer.chai.aur.code)  
-- 📸 Instagram: [codedreamer123](https://www.instagram.com/codedreamer123/)  
-
 ---
 
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/umema-sultan  
+- 💻 GitHub: https://github.com/umemasultan  
+- 🎵 TikTok: https://www.tiktok.com/@codedremer  
+- 📢 WhatsApp Channel: https://whatsapp.com/channel/0029VajhSWv77qVa4QVQJX3u  
+- 📘 Facebook: https://www.facebook.com/codedremer.chai.aur.code  
+- 📸 Instagram: https://www.instagram.com/codedreamer123/
+
+---
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=umemasultan&label=Profile%20views&color=0e75b6&style=flat)
