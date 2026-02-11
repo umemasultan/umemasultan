@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="YOUR_BANNER_IMAGE_LINK" alt="Banner" width="100%" />
+<img src="Add a heading.png" alt="Banner" width="100%" />
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Umema Sultan</h1>
