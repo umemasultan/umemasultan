@@ -12,7 +12,9 @@ Frontend Developer | React & Next.js | Python | Agentic AI & Robotics | Future T
 
 ### 🌱 About Me
 
-I'm a passionate Frontend Developer and AI enthusiast focused on building scalable web applications and exploring the latest in Agentic AI and Robotics. I love creating real-world projects that combine design, performance, and AI integration.  
+I'm a passionate Frontend Developer and AI enthusiast focused on building scalable web applications
+and exploring the latest in Agentic AI and Robotics. I love creating real-world projects that combine
+design, performance, and AI integration.  
 
 - 💻 **Frontend Development:** HTML, CSS, JavaScript, React, Next.js  
 - 🐍 **Programming & AI:** Python, Machine Learning, Agentic AI  
