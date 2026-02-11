@@ -36,26 +36,14 @@ I'm a passionate Frontend Developer and AI enthusiast focused on building scalab
 - 🔹 **Portfolio Website** — React, Next.js, CSS, HTML  
 - 🔹 **HTML/CSS Real-World Projects** — HTML, CSS, JavaScript  
 
----
-
-### 📊 GitHub Stats
-
-![Umema's GitHub stats](https://github-readme-stats.vercel.app/api?username=umemasultan&show_icons=true&theme=radical)  
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=umemasultan&theme=radical)  
-
----
-
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: [Umema Sultan](https://www.linkedin.com/in/umema-sultan)  
-- 💻 GitHub: [umemasultan](https://github.com/umemasultan)  
-- 🎵 TikTok: [codedremer](https://www.tiktok.com/@codedremer)  
-- 📢 WhatsApp Channel: [Click Here](https://whatsapp.com/channel/0029VajhSWv77qVa4QVQJX3u)  
-- 📘 Facebook: [codedremer.chai.aur.code](https://www.facebook.com/codedremer.chai.aur.code)  
-- 📸 Instagram: [codedreamer123](https://www.instagram.com/codedreamer123/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/umema-sultan  
+- 💻 GitHub: https://github.com/umemasultan  
+- 🎵 TikTok: https://www.tiktok.com/@codedremer  
+- 📢 WhatsApp Channel: https://whatsapp.com/channel/0029VajhSWv77qVa4QVQJX3u  
+- 📘 Facebook: https://www.facebook.com/codedremer.chai.aur.code  
+- 📸 Instagram: https://www.instagram.com/codedreamer123/
 
 ---
 
